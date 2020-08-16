@@ -9,7 +9,7 @@ Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</stro
 - 🔭 I’m currently working on a private repository.
 - 🌱 I’m currently learning React.js
 <br />
-### Tech Stack
+<h3>Tech Stack</h3>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <p align = 'center'> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
