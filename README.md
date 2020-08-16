@@ -9,7 +9,6 @@ Hi, I'm Mihir Gupta, a passionate self-taught MERN Stack developer and a Competi
 - 🔭 I’m currently working on a private repository.
 - 🌱 I’m currently learning React.js
 <br />
-<br />
 <p align = 'center'> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mihir0699&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
