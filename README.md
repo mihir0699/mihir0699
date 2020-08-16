@@ -8,7 +8,6 @@ Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</stro
 
 - 🔭 I’m currently working on a private repository.
 - 🌱 I’m currently learning React.js
-<br />
 <h3>Tech Stack</h3>
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
