@@ -1,7 +1,7 @@
 ### Hi there, I'm [Mihir!](https://github.com/mihir0699) 👋
 
 <a href="https://twitter.com/mihir0699">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Mihir Gupta | Twitter" width="21px" src="<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>" />
 </a>
 <br />
 Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.
