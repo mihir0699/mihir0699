@@ -7,4 +7,7 @@
  <a href = https://github.com/mihir0699 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/mihir0699 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://twitter.com/mihir0699 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mihir0699)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mihir0699&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
