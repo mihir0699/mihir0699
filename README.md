@@ -4,7 +4,7 @@
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <br />
-Hi, I'm Mihir Gupta, a passionate self-taught __MERN Stack developer__ and a Competitive Programming Enthusiast.
+Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</strong> and a Competitive Programming Enthusiast.
 
 - 🔭 I’m currently working on a private repository.
 - 🌱 I’m currently learning React.js
