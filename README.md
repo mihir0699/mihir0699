@@ -3,7 +3,8 @@
 <a href="https://twitter.com/mihir0699">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-Hi, I'm Mihir Gupta, a passionate self-taught MERN Stack developer.
+<br />
+Hi, I'm Mihir Gupta, a passionate self-taught MERN Stack developer and a Competitive Programming Enthusiast.
 
 - 🔭 I’m currently working on a private repository.
 - 🌱 I’m currently learning React.js
