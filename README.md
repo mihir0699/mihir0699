@@ -4,7 +4,7 @@
   <img align="left" alt="Mihir Gupta | Twitter" width="21px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="https://linkedin.com/in/mihir0699">
- <img  align="left" alt="Mihir Gupta | Linkedin" width="21px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
+ <img  align="left" alt="Mihir Gupta | Linkedin" width="25px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
 </a>
 </a>
 <br />
