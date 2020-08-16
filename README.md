@@ -6,9 +6,10 @@
 <a href="https://linkedin.com/in/mihir0699">
  <img  align="left" alt="Mihir Gupta | Linkedin" width="21px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
 </a>
-<a href="https://linkedin.com/in/mihir0699">
- <img align="left" alt="Mihir Gupta | Linkedin" width="21px" src="https://img.icons8.com/fluent/64/000000/facebook-new.png" />
+<a href="https://www.facebook.com/mihir.gupta.7965/">
+ <img align="left" alt="Mihir Gupta | Facebook" width="21px" src="https://img.icons8.com/fluent/64/000000/facebook-new.png" />
 </a>
+<br />
 <br />
 Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.
 
