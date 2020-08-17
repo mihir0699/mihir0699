@@ -22,7 +22,6 @@ Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</stro
 <br/>
 - 🔭 I’m currently working on a private repository.<br/>
 - 🌱 I’m currently learning <strong><em>React.js</em></strong><br/>
-<br/>
 - :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
 
 - Tea :coffee: is my drug
