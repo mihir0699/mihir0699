@@ -1,5 +1,5 @@
 ### Hi there, I'm [Mihir!](https://github.com/mihir0699) 👋
-![](https://komarev.com/ghpvc/?username=mihir0699&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=mihir0699)
 
 <a href="https://twitter.com/mihir0699">
   <img align="left" alt="Mihir Gupta | Twitter" width="21px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
