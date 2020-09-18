@@ -22,7 +22,7 @@
 <br/>
 - 🔭 I’m currently working on a private repository.<br/>
 <br />
-- 🌱 I’m currently learning <strong><em>React.js</em></strong><br/>
+- 🌱 I’m currently learning <strong><em>Redux</em></strong><br/>
 <br />
 - :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
 <br />
