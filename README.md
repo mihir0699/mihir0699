@@ -18,7 +18,7 @@
 </a>
 <br />
 <br />
-<h4>Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h4>
+<h3>Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 <br/>
 - 🔭 I’m currently working on a private repository.<br/>
 <br />
