@@ -33,6 +33,6 @@
  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
  </p>
 <p align = 'center'> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mihir0699&count_private=true" alt="Anurag's github stats" />
+<a href="https://github.com/mihir0699/mihir0699">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mihir0699&count_private=true" alt="Mihir's github stats" />
 </a>
