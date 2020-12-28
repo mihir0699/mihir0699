@@ -23,7 +23,7 @@
 <h3>Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 
 <br/>
-<hr />
+
 
  - 🔭 I’m currently working on a private repository.<br/>
  
