@@ -23,12 +23,14 @@
 <h3>Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 
 <br/>
-- 🔭 I’m currently working on a private repository.<br/>
-<br />
+-
+
+ - 🔭 I’m currently working on a private repository.<br/>
+ 
 - 🌱 I’m currently learning <strong><em>Redux</em></strong><br/>
-<br />
+
 - :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
-<br />
+
 - Tea :coffee: is my drug
 <h3>Tech Stack</h3>
 <p align="left">
