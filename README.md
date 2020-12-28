@@ -18,6 +18,8 @@
 </a>
 <br />
 <br />
+<img alt="Mihir Gupta" align="right" src="https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png" width="400px"/>
+
 <h3>Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 
 <br/>
