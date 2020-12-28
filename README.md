@@ -1,19 +1,15 @@
 ### Hi there, I'm [Mihir!](https://github.com/mihir0699) 👋
-<a href="https://twitter.com/mihir0699">
-  <img align="left" alt="Mihir Gupta | Twitter" width="21px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+<a href="https://twitter.com/mihir0699" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:mihir069@gmail.com?hl=en" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.hackerrank.com/mihir0699/">
-<img align="left" alt="Mihir Gupta | Twitter" width="21px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" />
+<a href="https://www.linkedin.com/in/mihir0699/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/mihir0699">
- <img  align="left" alt="Mihir Gupta | Linkedin" width="21px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
-</a>
-<a href="https://www.facebook.com/mihir.gupta.7965/">
- <img align="left" alt="Mihir Gupta | Facebook" width="21px" src="https://img.icons8.com/fluent/64/000000/facebook-new.png" />
-</a>
-<a href="https://www.instagram/mihir_gupta_1/">
- <img align="left" alt="Mihir Gupta | Facebook" width="21px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
-</a>
+
+
 <br />
 <br />
 <img alt="Mihir Gupta" align="right" src="https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png" width="400px"/>
