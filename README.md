@@ -22,7 +22,7 @@
  - 🔭 I’m currently working on a private repository.<br/>
  
 - 🌱 I’m currently learning <strong>Data Structures and Algorithms</strong>
-- 🤝 I’m looking to collaborate on MERN Projects
+- 🤝 I’m looking to collaborate on <strong>MERN</strong> Projects
 -  :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
 
 - Tea :coffee: is my drug
