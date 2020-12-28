@@ -1,6 +1,4 @@
 ### Hi there, I'm [Mihir!](https://github.com/mihir0699) 👋
-![](https://komarev.com/ghpvc/?username=mihir0699)
-
 <a href="https://twitter.com/mihir0699">
   <img align="left" alt="Mihir Gupta | Twitter" width="21px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
@@ -27,9 +25,9 @@
 
  - 🔭 I’m currently working on a private repository.<br/>
  
-- 🌱 I’m currently learning <strong><em>Redux</em></strong><br/>
-
-- :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
+- 🌱 I’m currently learning <strong>Data Structures and Algorithms</strong>
+- 🤝 I’m looking to collaborate on MERN Projects
+-  :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
 
 - Tea :coffee: is my drug
 <h3>Tech Stack</h3>
