@@ -19,7 +19,7 @@
 <br />
 <br />
 <h3>Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
-![enter image description here](https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png)
+
 <br/>
 - 🔭 I’m currently working on a private repository.<br/>
 <br />
