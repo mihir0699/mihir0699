@@ -28,8 +28,10 @@
 - Tea :coffee: is my drug
 <h3>Tech Stack</h3>
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
- <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="40" height="40"/>  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" /><img src="https://img.icons8.com/color/40/000000/python.png" alt="react" width="40" height="40"/> <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
+
  </p>
 <p align = 'center'> 
 <a href="https://github.com/mihir0699/mihir0699">
