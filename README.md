@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/mihir0699/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
+  <a href="https://www.youtube.com/channel/UCuKvBZo32WZVAjBLn9zbMWg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 
 <br />
