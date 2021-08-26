@@ -22,7 +22,7 @@
 
  - 🔭 I’m currently working on a private repository.<br/>
  
-- 🌱 I’m currently learning about <strong>Linux systemstrong>
+- 🌱 I’m currently learning about <strong>Linux systems</strong>
 - 🤝 I’m looking to collaborate on <strong>MERN</strong> Projects
 -  :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
 
