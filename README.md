@@ -23,7 +23,8 @@
  - 🔭 I’m currently working on a private repository.<br/>
  
 - 🌱 I’m currently learning about <strong>Linux systems</strong>
-- 🤝 I’m looking to collaborate on <strong>MERN</strong> Projects
+- 🤝 Accepting pull requests for Hacktobefest on my projects (but not simply a typo fix)
+- 🤔
 -  :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
 
 - Tea :coffee: is my drug
