@@ -24,7 +24,7 @@
  
 - 🌱 I’m currently learning about <strong>Linux systems</strong>
 - 🤝 Accepting pull requests for Hacktobefest on my projects (but not simply a typo fix)
-- 🤔
+- 🤔 Ask me about JavaScript and Web Development
 -  :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
 
 - Tea :coffee: is my drug
