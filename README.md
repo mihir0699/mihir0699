@@ -25,9 +25,9 @@
 - 🌱 I’m currently learning about <strong>Linux systems</strong>
 - 🤝 Accepting pull requests for Hacktobefest on my projects (but not simply a typo fix)
 - 🤔 Ask me about JavaScript and Web Development
--  :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
+- ☕ Tea  is my drug
+- :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
 
-- Tea :coffee: is my drug
 <h3>Tech Stack</h3>
 <p align="left">
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="40" height="40"/>  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> 
