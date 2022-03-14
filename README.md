@@ -23,7 +23,6 @@
  - 🔭 I’m currently working on a private repository.<br/>
  
 - 🌱 I’m currently learning about <strong>Linux systems</strong>
-- 🤝 Accepting pull requests for Hacktobefest on my projects (but not simply a typo fix)
 - 🤔 Ask me about JavaScript and Web Development
 - ☕ Tea  is my drug
 - :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
