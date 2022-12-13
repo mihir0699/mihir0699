@@ -22,7 +22,7 @@
 
  - 🔭 <strong>I’m currently looking for a job change.</strong><br/>
  
-- 🌱 I’m currently learning about <strong>Linux systems</strong>
+- 🌱 I’m currently learning about Linux systems
 - 🤔 Ask me about JavaScript and Web Development
 - ☕ Tea  is my drug
 - :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
