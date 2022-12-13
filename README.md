@@ -20,7 +20,7 @@
 <br/>
 
 
- - 🔭 I’m currently working on a private repository.<br/>
+ - 🔭 <strong>I’m currently looking for a job change.</strong><br/>
  
 - 🌱 I’m currently learning about <strong>Linux systems</strong>
 - 🤔 Ask me about JavaScript and Web Development
