@@ -20,7 +20,6 @@
 <br/>
 
 
- - 🔭 <strong>I’m currently looking for a job change.</strong><br/>
  
 - 🌱 I’m currently learning TypeScript and System Design
 - 🤔 Ask me about JavaScript and Web Development
